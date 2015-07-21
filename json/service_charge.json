@@ -1,0 +1,28 @@
+[
+
+    {
+        "min": 200,
+        "max": 500,
+        "amount": 70,
+        "percentage": false
+    },
+    {
+        "min": 501,
+        "max": 2000,
+        "amount": 10,
+        "percentage": true 
+    },
+    {
+        "min": 2000,
+        "max": 5000,
+        "amount": 8,
+        "percentage": true 
+    },
+    {
+        "min": 5001,
+        "max": null,
+        "amount": 7,
+        "percentage": true 
+    }
+
+]

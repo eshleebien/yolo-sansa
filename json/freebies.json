@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Dunkin Donuts",
+        "description": "Free donuts",
+        "amt_rqd": 500
+    },
+    {
+        "name": "Starbucks",
+        "description": "Enjoy free drinks",
+        "amt_rqd": 1500
+    },
+    {
+        "name": "Bench",
+        "description": "Free flip-flops",
+        "amt_rqd": 4500
+    },
+    {
+        "name": "Kyochon",
+        "description": "Free kyochon salad",
+        "amt_rqd": 900
+    }
+]
